@@ -1,0 +1,11 @@
+{
+    "name": "kowloon.dearimgui",
+    "version": "0.1.0",
+    "displayName": "Kowloon Dear ImGui",
+    "description": "Dear ImGui implementation for Unity 6.",
+    "unity": "6000.0",
+    "dependencies":
+    {
+        "com.unity.entities": "1.3.8"
+    }
+}
